@@ -6,7 +6,7 @@ Therefore I elaborated an evaluation framework which enables to examine incremen
 evolving knowledge graph but also allows to include static relatives into the comparison.
 
 Further I compiled the datasets called Wikidata9M and WikidataEvolve which are sourced from the edit history of Wikidata. 
-Both datasets are published at []. Wikidata9M describes the evolution of a knowledge graph represented by a time stream of fact insertions and deletions. 
+Wikidata9M can be found at https://github.com/rlafraie/Wikidata9M and describes the evolution of a knowledge graph represented by a time stream of fact insertions and deletions. 
 WikidataEvolve manifests a transformation of Wikidata9M to provide data for the training and evaluation of incremental and static embedding models 
 throughout the evolution of the knowledge graph.
 
